@@ -1,0 +1,10 @@
+
+.nosotros-titulo {
+    height: 300px;
+    -webkit-box-shadow: 0px 9px 5px 0px rgba(199, 199, 199, 1);
+    -moz-box-shadow: 0px 9px 5px 0px rgba(199, 199, 199, 1);
+    box-shadow: 0px 9px 5px 0px rgba(199, 199, 199, 1);
+}
+.nosotros-titulo h2{
+    font-size: 50px;
+}
